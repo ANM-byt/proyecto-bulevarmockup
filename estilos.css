@@ -55,12 +55,12 @@ nav {
     font-size: 30px;
     font-family: "montserrat";
     color: #808080;
-    padding: 0 20px;
+    padding: 0 30px;
 }
 
 /* MARCAS */
 .marcas{
-    padding: 0 20px;
+    padding: 0 30px;
 }
 .titulo2 {
     font-family: "Cinzel";
@@ -82,7 +82,7 @@ nav {
 
 /* ACCESORIOS */
 .accesorios{
-    padding: 0 20px;
+    padding: 0 30px;
 }
 .titulo3 {
     font-family: "Cinzel";
@@ -113,8 +113,8 @@ nav {
     font-family: "Montserrat", sans-serif;
     color: white;
     font-size: 30px;
+    padding: 0 30px;
     display: flex;
-
     justify-content: space-between;
 }
 
